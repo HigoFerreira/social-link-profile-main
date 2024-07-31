@@ -1,0 +1,11 @@
+:root {
+
+    --primary-Green:hsl(75, 94%, 57%);
+
+    --primary-White: hsl(0, 0%, 100%);
+
+    --primary-Grey:hsl(0, 0%, 20%);
+    --second-Grey: hsl(0, 0%, 12%);
+    --thrid-Grey: hsl(0, 0%, 8%);
+
+}

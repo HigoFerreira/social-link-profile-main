@@ -1,0 +1,99 @@
+body {
+  background-color: var(--thrid-Grey);
+  font-family: 'Inter', sans-serif;
+  
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.profile-professional {
+  height: 684px;
+  width: 427px;
+  background-color: var(--second-Grey);
+  border-radius: 12px;
+}
+
+.img-profile {
+  display: flex;
+  justify-content: center;
+  margin: 17px;
+  padding-top: 27px;
+}
+
+.imagem-Jessica-Randall {
+  justify-content: center;
+
+  max-width: 25%;
+  border-radius: 50%;
+}
+
+.title-Jessica-Randall {
+  display: flex;
+  justify-content: center;
+  color: var(--primary-White);
+
+  font-size: 27.6px;
+  font-weight: 400;
+  padding-top: 15px;
+}
+
+.origin {
+  display: flex;
+  justify-content: center;
+  font-size: 15.7px;
+  font-weight: 600;
+  padding-top: 10px;
+  /* margin: 5px; */
+  color: var(--primary-Green);
+}
+
+.about {
+  color: var(--primary-White);
+  display: flex;
+  justify-content: center;
+  font-size: 15.6px;
+  /* font-weight: 400; */
+
+  padding-top: 30px;
+}
+
+.social-link-pages {
+  color: var(--primary-White);
+  padding-top: 18px;
+}
+
+.social-link-buttom {
+  list-style-type: none;
+  display: flex;
+  margin: 4px;
+  justify-content: center;
+}
+
+.buttom-link {
+  background-color: var(--primary-Grey);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+  margin: 8px;
+  padding: 8px;
+  height: 32px;
+  width: 323px;
+  
+  font-weight: 400;
+  border-radius: 8px;
+}
+
+
+.buttom-link:hover {
+  background-color: var(--primary-Green);
+  cursor: pointer;
+  color: var(--second-Grey);
+}
+
+
