@@ -23,12 +23,11 @@ main {
   display: flex;
   justify-content: center;
   margin: 17px;
-  padding-top: 27px;
+  padding-top: 26px;
 }
 
 .imagem-Jessica-Randall {
   justify-content: center;
-
   max-width: 25%;
   border-radius: 50%;
 }
@@ -38,18 +37,18 @@ main {
   justify-content: center;
   color: var(--primary-White);
 
-  font-size: 27.6px;
-  font-weight: 400;
-  padding-top: 15px;
+  font-size: 24px;
+  font-weight: 500;
+  padding-top: 10px;
 }
 
 .origin {
   display: flex;
   justify-content: center;
-  font-size: 15.7px;
+  font-size: 14px;
   font-weight: 600;
   padding-top: 10px;
-  /* margin: 5px; */
+  
   color: var(--primary-Green);
 }
 
@@ -57,22 +56,26 @@ main {
   color: var(--primary-White);
   display: flex;
   justify-content: center;
-  font-size: 15.6px;
-  /* font-weight: 400; */
-
-  padding-top: 30px;
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 27px;
 }
 
 .social-link-pages {
   color: var(--primary-White);
-  padding-top: 18px;
+  display: flex;
+  justify-content: center;
+  padding: 16px;
+  
 }
 
 .social-link-buttom {
-  list-style-type: none;
   display: flex;
-  margin: 4px;
+  list-style-type: none;
   justify-content: center;
+  margin: 5px;
+  padding: 6px;
+
 }
 
 .buttom-link {
@@ -80,14 +83,11 @@ main {
   justify-content: center;
   align-items: center;
   display: flex;
-
-  margin: 8px;
-  padding: 8px;
-  height: 32px;
-  width: 323px;
-  
-  font-weight: 400;
-  border-radius: 8px;
+  height: 44px;
+  width: 302px;
+  font-size: 14px;
+  font-weight:600;
+  border-radius: 7px;
 }
 
 
