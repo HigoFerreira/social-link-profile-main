@@ -1,6 +1,7 @@
 body {
   background-color: var(--thrid-Grey);
   font-family: 'Inter', sans-serif;
+  max-width: 1440px;
   
 }
 
@@ -12,8 +13,8 @@ main {
 }
 
 .profile-professional {
-  height: 684px;
-  width: 427px;
+  height: 612px;
+  width: 385px;
   background-color: var(--second-Grey);
   border-radius: 12px;
 }
