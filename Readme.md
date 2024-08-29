@@ -13,7 +13,7 @@ Os usuários devem ser capazes de:
 <div class="captura-tela">
     <img src="./src/image/captura-de-tela.png" width="250px" height="395px"
     style="border-radius:15px " ></img>
-    <video src="./src/image/gravação-de-tela.mp4" width="270px" autoplay muted style="border-radius:15px">
+    <video src="./src/image/Gravando 2024-08-27 094745.mp4" width="270px" autoplay muted style="border-radius:15px">
 </div>
 
 
